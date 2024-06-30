@@ -1,0 +1,4 @@
+Linked List: In LL we get question from 3 patterns
+1. In place rêversal of linked list(iterative and recursion)
+2. Fast and slow pointer
+3. Recursion in LL
